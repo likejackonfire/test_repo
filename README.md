@@ -1,1 +1,2 @@
-Hello, my name is  
+Hello, our names are David, Farah, and James.
+
